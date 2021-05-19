@@ -1,0 +1,38 @@
+body
+{
+    background-size: cover;
+}
+.heading 
+{
+    width: 100%;
+    font-size: 30px;
+}
+.note
+{
+    width: 100%;
+    color: black;
+}
+#input , #object_name
+{
+    color: white;
+    width: 300px;
+    text-align: left;
+}
+#input 
+{
+    color: black;
+}
+.button
+{
+    width: 80px;
+    font-size: 20px;
+}
+
+canvas
+{
+  border: 5px solid rgb(183, 0, 255);
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px rgb(102, 102, 102);
+  margin-top: 150px;
+  margin-right: 900px;
+}
